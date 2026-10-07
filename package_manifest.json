@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "packaged_on": "2026-10-07",
+  "lean_source_commit": "0955a5ea79b8d8840f9a91687ee96cbbd0109fbe",
+  "lean_export": "git archive HEAD; all tracked files; no working tree changes, Git history, or build caches",
+  "certificate_files": [
+    {
+      "path": "certificates/derivative/multiplier_frame.json",
+      "source": "final_certificate_bundle/derivative/multiplier_frame.json",
+      "bytes": 3012941,
+      "sha256": "723ae40bbb8e57e9093058e7c843ab9ae2becb87f376ba0ab67fcc6661dcdaa4"
+    },
+    {
+      "path": "certificates/derivative/rational_gram.json",
+      "source": "final_certificate_bundle/derivative/rational_gram.json",
+      "bytes": 7103951,
+      "sha256": "7fb48ed506bb40e8645b7fe3374a902a42d499e24ad5f9fa17ad31c04ffc2555"
+    },
+    {
+      "path": "certificates/derivative/psd_congruences.json",
+      "source": "final_certificate_bundle/derivative/psd_congruences.json",
+      "bytes": 3551352,
+      "sha256": "3372f611ee6fc142ddc14ea3da9c210ec5717a99e6891771a2980d1d7194e2d0"
+    },
+    {
+      "path": "certificates/derivative/replay.py",
+      "source": "final_certificate_bundle/derivative/replay.py",
+      "bytes": 4056,
+      "sha256": "cdad7af265179baef2421238f5c1be522a3d3ba9183cdef572bcec4d2bdf7e07"
+    },
+    {
+      "path": "certificates/boundary/boundary_frame.json",
+      "source": "final_certificate_bundle/boundary/boundary_frame.json",
+      "bytes": 2213941,
+      "sha256": "756cb7dfd5937fd921abe3d3749fb006d4c07772c1d628b158874e89c4bd8c7c"
+    },
+    {
+      "path": "certificates/boundary/boundary_rational_certificate.json",
+      "source": "final_certificate_bundle/boundary/boundary_rational_certificate.json",
+      "bytes": 17439346,
+      "sha256": "43402c06720ab2fc55cb2f51de410dc51de9af4986279569c8d568d85143e7bd"
+    },
+    {
+      "path": "certificates/boundary/boundary_psd_congruences.json",
+      "source": "final_certificate_bundle/boundary/boundary_psd_congruences.json",
+      "bytes": 20638744,
+      "sha256": "ceb0d2e5fa080c29056106cebdb1e5a722317d72a14dcc8d6c8778b4a4a5f0b5"
+    },
+    {
+      "path": "certificates/boundary/replay_boundary.py",
+      "source": "final_certificate_bundle/boundary/replay_boundary.py",
+      "bytes": 4512,
+      "sha256": "20786df9ab5b6fea6620e6e8d7555ba2b16d2ae23420844bf5862e7e77324981"
+    }
+  ],
+  "license_status": "Pending author decision; see LICENSE_STATUS.md",
+  "validation_limits": [
+    "No clean Lean build performed during package preparation.",
+    "No numerical certificate discovery or regeneration claimed.",
+    "Original JSON-to-Lean converters are not included; embedded Lean data are self-contained."
+  ],
+  "dependencies": {
+    "lean": "leanprover/lean4:v4.29.0",
+    "mathlib_revision": "8a178386ffc0f5fef0b77738bb5449d50efeea95",
+    "python_flint": "0.9.0",
+    "replay_tested_python": "3.14.2"
+  },
+  "preparation_validation": {
+    "hash_manifest": "PASS",
+    "six_certificate_hashes_match_lean_provenance": true,
+    "replay_date": "2026-10-07",
+    "replays": {
+      "derivative": {
+        "exit_code": 0,
+        "seconds": 5.974378410261124,
+        "rss_MiB": 131.13671875,
+        "script_sha256": {
+          "multiplier_frame.json": "723ae40bbb8e57e9093058e7c843ab9ae2becb87f376ba0ab67fcc6661dcdaa4",
+          "rational_gram.json": "7fb48ed506bb40e8645b7fe3374a902a42d499e24ad5f9fa17ad31c04ffc2555",
+          "psd_congruences.json": "3372f611ee6fc142ddc14ea3da9c210ec5717a99e6891771a2980d1d7194e2d0",
+          "replay.py": "cdad7af265179baef2421238f5c1be522a3d3ba9183cdef572bcec4d2bdf7e07"
+        }
+      },
+      "boundary": {
+        "exit_code": 0,
+        "seconds": 5.179772834293544,
+        "rss_MiB": 193.05859375,
+        "script_sha256": {
+          "boundary_frame.json": "756cb7dfd5937fd921abe3d3749fb006d4c07772c1d628b158874e89c4bd8c7c",
+          "boundary_rational_certificate.json": "43402c06720ab2fc55cb2f51de410dc51de9af4986279569c8d568d85143e7bd",
+          "boundary_psd_congruences.json": "ceb0d2e5fa080c29056106cebdb1e5a722317d72a14dcc8d6c8778b4a4a5f0b5",
+          "replay_boundary.py": "20786df9ab5b6fea6620e6e8d7555ba2b16d2ae23420844bf5862e7e77324981"
+        }
+      }
+    },
+    "clean_lean_build": "NOT_RUN"
+  },
+  "generation_supplement": {
+    "included_original_scripts": 3,
+    "included_original_frame_bytes": 3565588,
+    "syntax_checks": "PASS",
+    "executed": false,
+    "scope": "partial original producer sources; not a closed search/conversion pipeline",
+    "inventory": "generation/source_inventory.json"
+  },
+  "repository_url": "https://github.com/EonMath/Vasc-n11-cert",
+  "release_revision": "Identify with git rev-parse HEAD in the release repository; distinct from lean_source_commit."
+}

@@ -1,0 +1,653 @@
+[
+  {
+    "block": 0,
+    "dimension": 184,
+    "coordinate_start": 0,
+    "coordinate_end": 17020,
+    "lean_bytes": 1273978
+  },
+  {
+    "block": 1,
+    "dimension": 117,
+    "coordinate_start": 17020,
+    "coordinate_end": 23923,
+    "lean_bytes": 525197
+  },
+  {
+    "block": 2,
+    "dimension": 118,
+    "coordinate_start": 23923,
+    "coordinate_end": 30944,
+    "lean_bytes": 528825
+  },
+  {
+    "block": 3,
+    "dimension": 118,
+    "coordinate_start": 30944,
+    "coordinate_end": 37965,
+    "lean_bytes": 525543
+  },
+  {
+    "block": 4,
+    "dimension": 121,
+    "coordinate_start": 37965,
+    "coordinate_end": 45346,
+    "lean_bytes": 568051
+  },
+  {
+    "block": 5,
+    "dimension": 121,
+    "coordinate_start": 45346,
+    "coordinate_end": 52727,
+    "lean_bytes": 550161
+  },
+  {
+    "block": 6,
+    "dimension": 121,
+    "coordinate_start": 52727,
+    "coordinate_end": 60108,
+    "lean_bytes": 549017
+  },
+  {
+    "block": 7,
+    "dimension": 66,
+    "coordinate_start": 60108,
+    "coordinate_end": 62319,
+    "lean_bytes": 173702
+  },
+  {
+    "block": 8,
+    "dimension": 118,
+    "coordinate_start": 62319,
+    "coordinate_end": 69340,
+    "lean_bytes": 545433
+  },
+  {
+    "block": 9,
+    "dimension": 121,
+    "coordinate_start": 69340,
+    "coordinate_end": 76721,
+    "lean_bytes": 555736
+  },
+  {
+    "block": 10,
+    "dimension": 121,
+    "coordinate_start": 76721,
+    "coordinate_end": 84102,
+    "lean_bytes": 562715
+  },
+  {
+    "block": 11,
+    "dimension": 66,
+    "coordinate_start": 84102,
+    "coordinate_end": 86313,
+    "lean_bytes": 175009
+  },
+  {
+    "block": 12,
+    "dimension": 118,
+    "coordinate_start": 86313,
+    "coordinate_end": 93334,
+    "lean_bytes": 524887
+  },
+  {
+    "block": 13,
+    "dimension": 66,
+    "coordinate_start": 93334,
+    "coordinate_end": 95545,
+    "lean_bytes": 172687
+  },
+  {
+    "block": 14,
+    "dimension": 66,
+    "coordinate_start": 95545,
+    "coordinate_end": 97756,
+    "lean_bytes": 172840
+  },
+  {
+    "block": 15,
+    "dimension": 66,
+    "coordinate_start": 97756,
+    "coordinate_end": 99967,
+    "lean_bytes": 173961
+  },
+  {
+    "block": 16,
+    "dimension": 121,
+    "coordinate_start": 99967,
+    "coordinate_end": 107348,
+    "lean_bytes": 575829
+  },
+  {
+    "block": 17,
+    "dimension": 121,
+    "coordinate_start": 107348,
+    "coordinate_end": 114729,
+    "lean_bytes": 553359
+  },
+  {
+    "block": 18,
+    "dimension": 125,
+    "coordinate_start": 114729,
+    "coordinate_end": 122604,
+    "lean_bytes": 620368
+  },
+  {
+    "block": 19,
+    "dimension": 71,
+    "coordinate_start": 122604,
+    "coordinate_end": 125160,
+    "lean_bytes": 203406
+  },
+  {
+    "block": 20,
+    "dimension": 121,
+    "coordinate_start": 125160,
+    "coordinate_end": 132541,
+    "lean_bytes": 558095
+  },
+  {
+    "block": 21,
+    "dimension": 70,
+    "coordinate_start": 132541,
+    "coordinate_end": 135026,
+    "lean_bytes": 198818
+  },
+  {
+    "block": 22,
+    "dimension": 69,
+    "coordinate_start": 135026,
+    "coordinate_end": 137441,
+    "lean_bytes": 191683
+  },
+  {
+    "block": 23,
+    "dimension": 68,
+    "coordinate_start": 137441,
+    "coordinate_end": 139787,
+    "lean_bytes": 187152
+  },
+  {
+    "block": 24,
+    "dimension": 71,
+    "coordinate_start": 139787,
+    "coordinate_end": 142343,
+    "lean_bytes": 202409
+  },
+  {
+    "block": 25,
+    "dimension": 70,
+    "coordinate_start": 142343,
+    "coordinate_end": 144828,
+    "lean_bytes": 198345
+  },
+  {
+    "block": 26,
+    "dimension": 69,
+    "coordinate_start": 144828,
+    "coordinate_end": 147243,
+    "lean_bytes": 191833
+  },
+  {
+    "block": 27,
+    "dimension": 71,
+    "coordinate_start": 147243,
+    "coordinate_end": 149799,
+    "lean_bytes": 201879
+  },
+  {
+    "block": 28,
+    "dimension": 70,
+    "coordinate_start": 149799,
+    "coordinate_end": 152284,
+    "lean_bytes": 197705
+  },
+  {
+    "block": 29,
+    "dimension": 71,
+    "coordinate_start": 152284,
+    "coordinate_end": 154840,
+    "lean_bytes": 201311
+  },
+  {
+    "block": 30,
+    "dimension": 30,
+    "coordinate_start": 154840,
+    "coordinate_end": 155305,
+    "lean_bytes": 37168
+  },
+  {
+    "block": 31,
+    "dimension": 121,
+    "coordinate_start": 155305,
+    "coordinate_end": 162686,
+    "lean_bytes": 581592
+  },
+  {
+    "block": 32,
+    "dimension": 66,
+    "coordinate_start": 162686,
+    "coordinate_end": 164897,
+    "lean_bytes": 177277
+  },
+  {
+    "block": 33,
+    "dimension": 68,
+    "coordinate_start": 164897,
+    "coordinate_end": 167243,
+    "lean_bytes": 188227
+  },
+  {
+    "block": 34,
+    "dimension": 69,
+    "coordinate_start": 167243,
+    "coordinate_end": 169658,
+    "lean_bytes": 193847
+  },
+  {
+    "block": 35,
+    "dimension": 70,
+    "coordinate_start": 169658,
+    "coordinate_end": 172143,
+    "lean_bytes": 197301
+  },
+  {
+    "block": 36,
+    "dimension": 70,
+    "coordinate_start": 172143,
+    "coordinate_end": 174628,
+    "lean_bytes": 199227
+  },
+  {
+    "block": 37,
+    "dimension": 71,
+    "coordinate_start": 174628,
+    "coordinate_end": 177184,
+    "lean_bytes": 204792
+  },
+  {
+    "block": 38,
+    "dimension": 71,
+    "coordinate_start": 177184,
+    "coordinate_end": 179740,
+    "lean_bytes": 204384
+  },
+  {
+    "block": 39,
+    "dimension": 70,
+    "coordinate_start": 179740,
+    "coordinate_end": 182225,
+    "lean_bytes": 196706
+  },
+  {
+    "block": 40,
+    "dimension": 71,
+    "coordinate_start": 182225,
+    "coordinate_end": 184781,
+    "lean_bytes": 202471
+  },
+  {
+    "block": 41,
+    "dimension": 70,
+    "coordinate_start": 184781,
+    "coordinate_end": 187266,
+    "lean_bytes": 196973
+  },
+  {
+    "block": 42,
+    "dimension": 30,
+    "coordinate_start": 187266,
+    "coordinate_end": 187731,
+    "lean_bytes": 37392
+  },
+  {
+    "block": 43,
+    "dimension": 66,
+    "coordinate_start": 187731,
+    "coordinate_end": 189942,
+    "lean_bytes": 176917
+  },
+  {
+    "block": 44,
+    "dimension": 69,
+    "coordinate_start": 189942,
+    "coordinate_end": 192357,
+    "lean_bytes": 191973
+  },
+  {
+    "block": 45,
+    "dimension": 70,
+    "coordinate_start": 192357,
+    "coordinate_end": 194842,
+    "lean_bytes": 196529
+  },
+  {
+    "block": 46,
+    "dimension": 69,
+    "coordinate_start": 194842,
+    "coordinate_end": 197257,
+    "lean_bytes": 192709
+  },
+  {
+    "block": 47,
+    "dimension": 71,
+    "coordinate_start": 197257,
+    "coordinate_end": 199813,
+    "lean_bytes": 203628
+  },
+  {
+    "block": 48,
+    "dimension": 69,
+    "coordinate_start": 199813,
+    "coordinate_end": 202228,
+    "lean_bytes": 192384
+  },
+  {
+    "block": 49,
+    "dimension": 30,
+    "coordinate_start": 202228,
+    "coordinate_end": 202693,
+    "lean_bytes": 37779
+  },
+  {
+    "block": 50,
+    "dimension": 70,
+    "coordinate_start": 202693,
+    "coordinate_end": 205178,
+    "lean_bytes": 196333
+  },
+  {
+    "block": 51,
+    "dimension": 68,
+    "coordinate_start": 205178,
+    "coordinate_end": 207524,
+    "lean_bytes": 187871
+  },
+  {
+    "block": 52,
+    "dimension": 30,
+    "coordinate_start": 207524,
+    "coordinate_end": 207989,
+    "lean_bytes": 37532
+  },
+  {
+    "block": 53,
+    "dimension": 30,
+    "coordinate_start": 207989,
+    "coordinate_end": 208454,
+    "lean_bytes": 37319
+  },
+  {
+    "block": 54,
+    "dimension": 30,
+    "coordinate_start": 208454,
+    "coordinate_end": 208919,
+    "lean_bytes": 37429
+  },
+  {
+    "block": 55,
+    "dimension": 30,
+    "coordinate_start": 208919,
+    "coordinate_end": 209384,
+    "lean_bytes": 37030
+  },
+  {
+    "block": 56,
+    "dimension": 76,
+    "coordinate_start": 209384,
+    "coordinate_end": 212310,
+    "lean_bytes": 232756
+  },
+  {
+    "block": 57,
+    "dimension": 74,
+    "coordinate_start": 212310,
+    "coordinate_end": 215085,
+    "lean_bytes": 222703
+  },
+  {
+    "block": 58,
+    "dimension": 72,
+    "coordinate_start": 215085,
+    "coordinate_end": 217713,
+    "lean_bytes": 210213
+  },
+  {
+    "block": 59,
+    "dimension": 76,
+    "coordinate_start": 217713,
+    "coordinate_end": 220639,
+    "lean_bytes": 231957
+  },
+  {
+    "block": 60,
+    "dimension": 74,
+    "coordinate_start": 220639,
+    "coordinate_end": 223414,
+    "lean_bytes": 221463
+  },
+  {
+    "block": 61,
+    "dimension": 36,
+    "coordinate_start": 223414,
+    "coordinate_end": 224080,
+    "lean_bytes": 53261
+  },
+  {
+    "block": 62,
+    "dimension": 71,
+    "coordinate_start": 224080,
+    "coordinate_end": 226636,
+    "lean_bytes": 203543
+  },
+  {
+    "block": 63,
+    "dimension": 71,
+    "coordinate_start": 226636,
+    "coordinate_end": 229192,
+    "lean_bytes": 203337
+  },
+  {
+    "block": 64,
+    "dimension": 74,
+    "coordinate_start": 229192,
+    "coordinate_end": 231967,
+    "lean_bytes": 222670
+  },
+  {
+    "block": 65,
+    "dimension": 74,
+    "coordinate_start": 231967,
+    "coordinate_end": 234742,
+    "lean_bytes": 221174
+  },
+  {
+    "block": 66,
+    "dimension": 35,
+    "coordinate_start": 234742,
+    "coordinate_end": 235372,
+    "lean_bytes": 50410
+  },
+  {
+    "block": 67,
+    "dimension": 34,
+    "coordinate_start": 235372,
+    "coordinate_end": 235967,
+    "lean_bytes": 47960
+  },
+  {
+    "block": 68,
+    "dimension": 33,
+    "coordinate_start": 235967,
+    "coordinate_end": 236528,
+    "lean_bytes": 45341
+  },
+  {
+    "block": 69,
+    "dimension": 32,
+    "coordinate_start": 236528,
+    "coordinate_end": 237056,
+    "lean_bytes": 42753
+  },
+  {
+    "block": 70,
+    "dimension": 31,
+    "coordinate_start": 237056,
+    "coordinate_end": 237552,
+    "lean_bytes": 39932
+  },
+  {
+    "block": 71,
+    "dimension": 36,
+    "coordinate_start": 237552,
+    "coordinate_end": 238218,
+    "lean_bytes": 53259
+  },
+  {
+    "block": 72,
+    "dimension": 35,
+    "coordinate_start": 238218,
+    "coordinate_end": 238848,
+    "lean_bytes": 50461
+  },
+  {
+    "block": 73,
+    "dimension": 34,
+    "coordinate_start": 238848,
+    "coordinate_end": 239443,
+    "lean_bytes": 48464
+  },
+  {
+    "block": 74,
+    "dimension": 33,
+    "coordinate_start": 239443,
+    "coordinate_end": 240004,
+    "lean_bytes": 45695
+  },
+  {
+    "block": 75,
+    "dimension": 32,
+    "coordinate_start": 240004,
+    "coordinate_end": 240532,
+    "lean_bytes": 42972
+  },
+  {
+    "block": 76,
+    "dimension": 36,
+    "coordinate_start": 240532,
+    "coordinate_end": 241198,
+    "lean_bytes": 53253
+  },
+  {
+    "block": 77,
+    "dimension": 35,
+    "coordinate_start": 241198,
+    "coordinate_end": 241828,
+    "lean_bytes": 50536
+  },
+  {
+    "block": 78,
+    "dimension": 34,
+    "coordinate_start": 241828,
+    "coordinate_end": 242423,
+    "lean_bytes": 48464
+  },
+  {
+    "block": 79,
+    "dimension": 33,
+    "coordinate_start": 242423,
+    "coordinate_end": 242984,
+    "lean_bytes": 45237
+  },
+  {
+    "block": 80,
+    "dimension": 35,
+    "coordinate_start": 242984,
+    "coordinate_end": 243614,
+    "lean_bytes": 50520
+  },
+  {
+    "block": 81,
+    "dimension": 34,
+    "coordinate_start": 243614,
+    "coordinate_end": 244209,
+    "lean_bytes": 47951
+  },
+  {
+    "block": 82,
+    "dimension": 35,
+    "coordinate_start": 244209,
+    "coordinate_end": 244839,
+    "lean_bytes": 50433
+  },
+  {
+    "block": 83,
+    "dimension": 10,
+    "coordinate_start": 244839,
+    "coordinate_end": 244894,
+    "lean_bytes": 4769
+  },
+  {
+    "block": 84,
+    "dimension": 35,
+    "coordinate_start": 244894,
+    "coordinate_end": 245524,
+    "lean_bytes": 50408
+  },
+  {
+    "block": 85,
+    "dimension": 35,
+    "coordinate_start": 245524,
+    "coordinate_end": 246154,
+    "lean_bytes": 50394
+  },
+  {
+    "block": 86,
+    "dimension": 35,
+    "coordinate_start": 246154,
+    "coordinate_end": 246784,
+    "lean_bytes": 50569
+  },
+  {
+    "block": 87,
+    "dimension": 35,
+    "coordinate_start": 246784,
+    "coordinate_end": 247414,
+    "lean_bytes": 50504
+  },
+  {
+    "block": 88,
+    "dimension": 35,
+    "coordinate_start": 247414,
+    "coordinate_end": 248044,
+    "lean_bytes": 50686
+  },
+  {
+    "block": 89,
+    "dimension": 10,
+    "coordinate_start": 248044,
+    "coordinate_end": 248099,
+    "lean_bytes": 4792
+  },
+  {
+    "block": 90,
+    "dimension": 10,
+    "coordinate_start": 248099,
+    "coordinate_end": 248154,
+    "lean_bytes": 4762
+  },
+  {
+    "block": 91,
+    "dimension": 10,
+    "coordinate_start": 248154,
+    "coordinate_end": 248209,
+    "lean_bytes": 4788
+  },
+  {
+    "block": 92,
+    "dimension": 10,
+    "coordinate_start": 248209,
+    "coordinate_end": 248264,
+    "lean_bytes": 4808
+  }
+]

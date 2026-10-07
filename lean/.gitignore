@@ -1,0 +1,9 @@
+.lake/
+*.olean
+*.ilean
+*.c
+*.o
+*.so
+*.a
+*.trace
+*.hash

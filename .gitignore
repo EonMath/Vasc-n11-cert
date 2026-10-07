@@ -1,0 +1,13 @@
+.venv/
+**/.lake/
+**/__pycache__/
+*.pyc
+*.olean
+*.ilean
+*.o
+*.so
+*.a
+certificates/derivative/exact_replay.json
+certificates/boundary/boundary_exact_replay.json
+*.log
+.DS_Store

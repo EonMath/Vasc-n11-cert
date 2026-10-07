@@ -1,0 +1,45 @@
+name = "Vasc11"
+version = "0.1.0"
+moreLeanArgs = ["--tstack=262144"]
+defaultTargets = ["Vasc11", "MatrixSoundness", "SparseSoundness", "PolynomialInterfaces", "StagedInterfaces"]
+
+[leanOptions]
+pp.unicode.fun = true
+relaxedAutoImplicit = false
+maxSynthPendingDepth = 3
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "v4.29.0"
+
+[[lean_lib]]
+name = "Vasc11"
+
+[[lean_lib]]
+name = "MatrixSoundness"
+
+[[lean_lib]]
+name = "SparseSoundness"
+
+[[lean_lib]]
+name = "PolynomialInterfaces"
+
+[[lean_lib]]
+name = "StagedInterfaces"
+
+[[lean_lib]]
+name = "VascBoundary"
+globs = ["VascBoundary.+"]
+
+[[lean_lib]]
+name = "VascDerivative"
+globs = ["VascDerivative.+"]
+
+[[lean_lib]]
+name = "VascTyped"
+globs = ["VascTyped.+"]
+
+[[lean_lib]]
+name = "VascPoly"
+globs = ["VascPoly.+"]

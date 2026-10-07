@@ -1,0 +1,12 @@
+{
+  "derivative": {
+    "multiplier_frame.json": "723ae40bbb8e57e9093058e7c843ab9ae2becb87f376ba0ab67fcc6661dcdaa4",
+    "rational_gram.json": "7fb48ed506bb40e8645b7fe3374a902a42d499e24ad5f9fa17ad31c04ffc2555",
+    "psd_congruences.json": "3372f611ee6fc142ddc14ea3da9c210ec5717a99e6891771a2980d1d7194e2d0"
+  },
+  "boundary": {
+    "boundary_frame.json": "756cb7dfd5937fd921abe3d3749fb006d4c07772c1d628b158874e89c4bd8c7c",
+    "boundary_rational_certificate.json": "43402c06720ab2fc55cb2f51de410dc51de9af4986279569c8d568d85143e7bd",
+    "boundary_psd_congruences.json": "ceb0d2e5fa080c29056106cebdb1e5a722317d72a14dcc8d6c8778b4a4a5f0b5"
+  }
+}

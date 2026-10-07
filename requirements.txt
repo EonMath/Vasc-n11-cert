@@ -1,0 +1,2 @@
+# Tested with CPython 3.14.2 on Linux x86-64; assertions must remain enabled.
+python-flint==0.9.0
